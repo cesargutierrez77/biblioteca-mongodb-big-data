@@ -1,0 +1,1268 @@
+[
+  {
+    "_id": "P001",
+    "libro_id": "L032",
+    "socio_id": "S009",
+    "fecha_prestamo": {
+      "$date": "2026-10-08T00:00:00Z"
+    },
+    "estado": "activo"
+  },
+  {
+    "_id": "P002",
+    "libro_id": "L006",
+    "socio_id": "S021",
+    "fecha_prestamo": {
+      "$date": "2026-06-14T00:00:00Z"
+    },
+    "estado": "atrasado",
+    "multa": 5000
+  },
+  {
+    "_id": "P003",
+    "libro_id": "L003",
+    "socio_id": "S001",
+    "fecha_prestamo": {
+      "$date": "2026-08-10T00:00:00Z"
+    },
+    "estado": "atrasado",
+    "multa": 3000
+  },
+  {
+    "_id": "P004",
+    "libro_id": "L017",
+    "socio_id": "S006",
+    "fecha_prestamo": {
+      "$date": "2026-07-04T00:00:00Z"
+    },
+    "estado": "activo"
+  },
+  {
+    "_id": "P005",
+    "libro_id": "L028",
+    "socio_id": "S018",
+    "fecha_prestamo": {
+      "$date": "2026-09-22T00:00:00Z"
+    },
+    "estado": "activo"
+  },
+  {
+    "_id": "P006",
+    "libro_id": "L008",
+    "socio_id": "S003",
+    "fecha_prestamo": {
+      "$date": "2026-06-03T00:00:00Z"
+    },
+    "estado": "atrasado",
+    "multa": 10000
+  },
+  {
+    "_id": "P007",
+    "libro_id": "L035",
+    "socio_id": "S002",
+    "fecha_prestamo": {
+      "$date": "2026-07-09T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-07-17T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P008",
+    "libro_id": "L010",
+    "socio_id": "S014",
+    "fecha_prestamo": {
+      "$date": "2026-10-28T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-11-02T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P009",
+    "libro_id": "L020",
+    "socio_id": "S012",
+    "fecha_prestamo": {
+      "$date": "2026-06-11T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-06-14T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P010",
+    "libro_id": "L014",
+    "socio_id": "S022",
+    "fecha_prestamo": {
+      "$date": "2026-08-31T00:00:00Z"
+    },
+    "estado": "activo"
+  },
+  {
+    "_id": "P011",
+    "libro_id": "L007",
+    "socio_id": "S012",
+    "fecha_prestamo": {
+      "$date": "2026-08-03T00:00:00Z"
+    },
+    "estado": "atrasado",
+    "multa": 8000
+  },
+  {
+    "_id": "P012",
+    "libro_id": "L010",
+    "socio_id": "S030",
+    "fecha_prestamo": {
+      "$date": "2026-09-13T00:00:00Z"
+    },
+    "estado": "cancelado",
+    "motivo_cancelacion": "Libro no disponible"
+  },
+  {
+    "_id": "P013",
+    "libro_id": "L012",
+    "socio_id": "S029",
+    "fecha_prestamo": {
+      "$date": "2026-07-12T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-07-21T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P014",
+    "libro_id": "L012",
+    "socio_id": "S024",
+    "fecha_prestamo": {
+      "$date": "2026-06-07T00:00:00Z"
+    },
+    "estado": "atrasado",
+    "multa": 3000
+  },
+  {
+    "_id": "P015",
+    "libro_id": "L016",
+    "socio_id": "S009",
+    "fecha_prestamo": {
+      "$date": "2026-09-14T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-09-19T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P016",
+    "libro_id": "L025",
+    "socio_id": "S028",
+    "fecha_prestamo": {
+      "$date": "2026-06-28T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-07-01T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P017",
+    "libro_id": "L015",
+    "socio_id": "S007",
+    "fecha_prestamo": {
+      "$date": "2026-09-29T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-10-09T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P018",
+    "libro_id": "L020",
+    "socio_id": "S027",
+    "fecha_prestamo": {
+      "$date": "2026-08-29T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-09-04T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P019",
+    "libro_id": "L002",
+    "socio_id": "S022",
+    "fecha_prestamo": {
+      "$date": "2026-07-28T00:00:00Z"
+    },
+    "estado": "atrasado",
+    "multa": 2000
+  },
+  {
+    "_id": "P020",
+    "libro_id": "L022",
+    "socio_id": "S009",
+    "fecha_prestamo": {
+      "$date": "2026-09-11T00:00:00Z"
+    },
+    "estado": "activo"
+  },
+  {
+    "_id": "P021",
+    "libro_id": "L018",
+    "socio_id": "S012",
+    "fecha_prestamo": {
+      "$date": "2026-06-18T00:00:00Z"
+    },
+    "estado": "cancelado",
+    "motivo_cancelacion": "Error de registro"
+  },
+  {
+    "_id": "P022",
+    "libro_id": "L026",
+    "socio_id": "S022",
+    "fecha_prestamo": {
+      "$date": "2026-10-09T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-10-20T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P023",
+    "libro_id": "L002",
+    "socio_id": "S004",
+    "fecha_prestamo": {
+      "$date": "2026-08-24T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-08-31T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P024",
+    "libro_id": "L017",
+    "socio_id": "S002",
+    "fecha_prestamo": {
+      "$date": "2026-07-16T00:00:00Z"
+    },
+    "estado": "activo"
+  },
+  {
+    "_id": "P025",
+    "libro_id": "L028",
+    "socio_id": "S012",
+    "fecha_prestamo": {
+      "$date": "2026-06-28T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-07-12T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P026",
+    "libro_id": "L028",
+    "socio_id": "S020",
+    "fecha_prestamo": {
+      "$date": "2026-08-20T00:00:00Z"
+    },
+    "estado": "activo"
+  },
+  {
+    "_id": "P027",
+    "libro_id": "L008",
+    "socio_id": "S013",
+    "fecha_prestamo": {
+      "$date": "2026-10-09T00:00:00Z"
+    },
+    "estado": "atrasado",
+    "multa": 8000
+  },
+  {
+    "_id": "P028",
+    "libro_id": "L017",
+    "socio_id": "S002",
+    "fecha_prestamo": {
+      "$date": "2026-07-19T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-08-02T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P029",
+    "libro_id": "L001",
+    "socio_id": "S017",
+    "fecha_prestamo": {
+      "$date": "2026-09-20T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-10-01T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P030",
+    "libro_id": "L024",
+    "socio_id": "S014",
+    "fecha_prestamo": {
+      "$date": "2026-07-21T00:00:00Z"
+    },
+    "estado": "cancelado",
+    "motivo_cancelacion": "Libro no disponible"
+  },
+  {
+    "_id": "P031",
+    "libro_id": "L021",
+    "socio_id": "S022",
+    "fecha_prestamo": {
+      "$date": "2026-08-24T00:00:00Z"
+    },
+    "estado": "atrasado",
+    "multa": 1000
+  },
+  {
+    "_id": "P032",
+    "libro_id": "L033",
+    "socio_id": "S010",
+    "fecha_prestamo": {
+      "$date": "2026-08-16T00:00:00Z"
+    },
+    "estado": "atrasado",
+    "multa": 10000
+  },
+  {
+    "_id": "P033",
+    "libro_id": "L021",
+    "socio_id": "S013",
+    "fecha_prestamo": {
+      "$date": "2026-09-13T00:00:00Z"
+    },
+    "estado": "activo"
+  },
+  {
+    "_id": "P034",
+    "libro_id": "L009",
+    "socio_id": "S007",
+    "fecha_prestamo": {
+      "$date": "2026-08-15T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-08-24T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P035",
+    "libro_id": "L012",
+    "socio_id": "S020",
+    "fecha_prestamo": {
+      "$date": "2026-09-06T00:00:00Z"
+    },
+    "estado": "activo"
+  },
+  {
+    "_id": "P036",
+    "libro_id": "L020",
+    "socio_id": "S013",
+    "fecha_prestamo": {
+      "$date": "2026-10-24T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-11-04T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P037",
+    "libro_id": "L020",
+    "socio_id": "S010",
+    "fecha_prestamo": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-06-07T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P038",
+    "libro_id": "L021",
+    "socio_id": "S015",
+    "fecha_prestamo": {
+      "$date": "2026-09-19T00:00:00Z"
+    },
+    "estado": "atrasado",
+    "multa": 5000
+  },
+  {
+    "_id": "P039",
+    "libro_id": "L014",
+    "socio_id": "S017",
+    "fecha_prestamo": {
+      "$date": "2026-09-22T00:00:00Z"
+    },
+    "estado": "activo"
+  },
+  {
+    "_id": "P040",
+    "libro_id": "L011",
+    "socio_id": "S022",
+    "fecha_prestamo": {
+      "$date": "2026-09-30T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-10-04T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P041",
+    "libro_id": "L033",
+    "socio_id": "S022",
+    "fecha_prestamo": {
+      "$date": "2026-08-12T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-08-25T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P042",
+    "libro_id": "L006",
+    "socio_id": "S027",
+    "fecha_prestamo": {
+      "$date": "2026-08-25T00:00:00Z"
+    },
+    "estado": "atrasado",
+    "multa": 2000
+  },
+  {
+    "_id": "P043",
+    "libro_id": "L015",
+    "socio_id": "S026",
+    "fecha_prestamo": {
+      "$date": "2026-08-19T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-08-25T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P044",
+    "libro_id": "L002",
+    "socio_id": "S002",
+    "fecha_prestamo": {
+      "$date": "2026-07-08T00:00:00Z"
+    },
+    "estado": "cancelado",
+    "motivo_cancelacion": "Libro no disponible"
+  },
+  {
+    "_id": "P045",
+    "libro_id": "L005",
+    "socio_id": "S015",
+    "fecha_prestamo": {
+      "$date": "2026-09-30T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-10-09T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P046",
+    "libro_id": "L013",
+    "socio_id": "S023",
+    "fecha_prestamo": {
+      "$date": "2026-10-26T00:00:00Z"
+    },
+    "estado": "atrasado",
+    "multa": 10000
+  },
+  {
+    "_id": "P047",
+    "libro_id": "L032",
+    "socio_id": "S013",
+    "fecha_prestamo": {
+      "$date": "2026-09-07T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-09-13T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P048",
+    "libro_id": "L001",
+    "socio_id": "S029",
+    "fecha_prestamo": {
+      "$date": "2026-07-08T00:00:00Z"
+    },
+    "estado": "atrasado",
+    "multa": 1000
+  },
+  {
+    "_id": "P049",
+    "libro_id": "L015",
+    "socio_id": "S006",
+    "fecha_prestamo": {
+      "$date": "2026-09-17T00:00:00Z"
+    },
+    "estado": "atrasado",
+    "multa": 10000
+  },
+  {
+    "_id": "P050",
+    "libro_id": "L030",
+    "socio_id": "S002",
+    "fecha_prestamo": {
+      "$date": "2026-10-11T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-10-22T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P051",
+    "libro_id": "L008",
+    "socio_id": "S015",
+    "fecha_prestamo": {
+      "$date": "2026-08-03T00:00:00Z"
+    },
+    "estado": "activo"
+  },
+  {
+    "_id": "P052",
+    "libro_id": "L030",
+    "socio_id": "S022",
+    "fecha_prestamo": {
+      "$date": "2026-07-05T00:00:00Z"
+    },
+    "estado": "activo"
+  },
+  {
+    "_id": "P053",
+    "libro_id": "L021",
+    "socio_id": "S025",
+    "fecha_prestamo": {
+      "$date": "2026-10-14T00:00:00Z"
+    },
+    "estado": "activo"
+  },
+  {
+    "_id": "P054",
+    "libro_id": "L033",
+    "socio_id": "S014",
+    "fecha_prestamo": {
+      "$date": "2026-09-22T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-10-03T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P055",
+    "libro_id": "L011",
+    "socio_id": "S024",
+    "fecha_prestamo": {
+      "$date": "2026-09-23T00:00:00Z"
+    },
+    "estado": "atrasado",
+    "multa": 5000
+  },
+  {
+    "_id": "P056",
+    "libro_id": "L017",
+    "socio_id": "S025",
+    "fecha_prestamo": {
+      "$date": "2026-09-24T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-09-30T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P057",
+    "libro_id": "L034",
+    "socio_id": "S016",
+    "fecha_prestamo": {
+      "$date": "2026-08-10T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-08-23T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P058",
+    "libro_id": "L018",
+    "socio_id": "S015",
+    "fecha_prestamo": {
+      "$date": "2026-08-01T00:00:00Z"
+    },
+    "estado": "activo"
+  },
+  {
+    "_id": "P059",
+    "libro_id": "L019",
+    "socio_id": "S008",
+    "fecha_prestamo": {
+      "$date": "2026-06-20T00:00:00Z"
+    },
+    "estado": "atrasado",
+    "multa": 3000
+  },
+  {
+    "_id": "P060",
+    "libro_id": "L021",
+    "socio_id": "S029",
+    "fecha_prestamo": {
+      "$date": "2026-08-25T00:00:00Z"
+    },
+    "estado": "atrasado",
+    "multa": 8000
+  },
+  {
+    "_id": "P061",
+    "libro_id": "L009",
+    "socio_id": "S005",
+    "fecha_prestamo": {
+      "$date": "2026-06-21T00:00:00Z"
+    },
+    "estado": "atrasado",
+    "multa": 2000
+  },
+  {
+    "_id": "P062",
+    "libro_id": "L010",
+    "socio_id": "S023",
+    "fecha_prestamo": {
+      "$date": "2026-09-07T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-09-13T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P063",
+    "libro_id": "L027",
+    "socio_id": "S014",
+    "fecha_prestamo": {
+      "$date": "2026-06-17T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-06-25T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P064",
+    "libro_id": "L030",
+    "socio_id": "S014",
+    "fecha_prestamo": {
+      "$date": "2026-10-17T00:00:00Z"
+    },
+    "estado": "activo"
+  },
+  {
+    "_id": "P065",
+    "libro_id": "L014",
+    "socio_id": "S027",
+    "fecha_prestamo": {
+      "$date": "2026-06-16T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-06-25T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P066",
+    "libro_id": "L002",
+    "socio_id": "S028",
+    "fecha_prestamo": {
+      "$date": "2026-09-08T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-09-20T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P067",
+    "libro_id": "L031",
+    "socio_id": "S001",
+    "fecha_prestamo": {
+      "$date": "2026-09-06T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-09-14T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P068",
+    "libro_id": "L025",
+    "socio_id": "S028",
+    "fecha_prestamo": {
+      "$date": "2026-08-16T00:00:00Z"
+    },
+    "estado": "cancelado",
+    "motivo_cancelacion": "El socio desistió"
+  },
+  {
+    "_id": "P069",
+    "libro_id": "L035",
+    "socio_id": "S026",
+    "fecha_prestamo": {
+      "$date": "2026-10-16T00:00:00Z"
+    },
+    "estado": "cancelado",
+    "motivo_cancelacion": "Error de registro"
+  },
+  {
+    "_id": "P070",
+    "libro_id": "L032",
+    "socio_id": "S008",
+    "fecha_prestamo": {
+      "$date": "2026-07-27T00:00:00Z"
+    },
+    "estado": "activo"
+  },
+  {
+    "_id": "P071",
+    "libro_id": "L028",
+    "socio_id": "S016",
+    "fecha_prestamo": {
+      "$date": "2026-08-09T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-08-12T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P072",
+    "libro_id": "L022",
+    "socio_id": "S022",
+    "fecha_prestamo": {
+      "$date": "2026-09-08T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-09-21T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P073",
+    "libro_id": "L011",
+    "socio_id": "S027",
+    "fecha_prestamo": {
+      "$date": "2026-09-12T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-09-22T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P074",
+    "libro_id": "L035",
+    "socio_id": "S001",
+    "fecha_prestamo": {
+      "$date": "2026-07-03T00:00:00Z"
+    },
+    "estado": "activo"
+  },
+  {
+    "_id": "P075",
+    "libro_id": "L002",
+    "socio_id": "S003",
+    "fecha_prestamo": {
+      "$date": "2026-09-09T00:00:00Z"
+    },
+    "estado": "atrasado",
+    "multa": 10000
+  },
+  {
+    "_id": "P076",
+    "libro_id": "L009",
+    "socio_id": "S028",
+    "fecha_prestamo": {
+      "$date": "2026-09-18T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-09-28T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P077",
+    "libro_id": "L004",
+    "socio_id": "S009",
+    "fecha_prestamo": {
+      "$date": "2026-07-17T00:00:00Z"
+    },
+    "estado": "activo"
+  },
+  {
+    "_id": "P078",
+    "libro_id": "L021",
+    "socio_id": "S007",
+    "fecha_prestamo": {
+      "$date": "2026-09-06T00:00:00Z"
+    },
+    "estado": "activo"
+  },
+  {
+    "_id": "P079",
+    "libro_id": "L021",
+    "socio_id": "S011",
+    "fecha_prestamo": {
+      "$date": "2026-09-25T00:00:00Z"
+    },
+    "estado": "cancelado",
+    "motivo_cancelacion": "El socio desistió"
+  },
+  {
+    "_id": "P080",
+    "libro_id": "L027",
+    "socio_id": "S009",
+    "fecha_prestamo": {
+      "$date": "2026-08-11T00:00:00Z"
+    },
+    "estado": "atrasado",
+    "multa": 1000
+  },
+  {
+    "_id": "P081",
+    "libro_id": "L002",
+    "socio_id": "S024",
+    "fecha_prestamo": {
+      "$date": "2026-09-29T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-10-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P082",
+    "libro_id": "L023",
+    "socio_id": "S008",
+    "fecha_prestamo": {
+      "$date": "2026-06-14T00:00:00Z"
+    },
+    "estado": "cancelado",
+    "motivo_cancelacion": "Error de registro"
+  },
+  {
+    "_id": "P083",
+    "libro_id": "L003",
+    "socio_id": "S025",
+    "fecha_prestamo": {
+      "$date": "2026-06-18T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-06-21T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P084",
+    "libro_id": "L013",
+    "socio_id": "S027",
+    "fecha_prestamo": {
+      "$date": "2026-08-03T00:00:00Z"
+    },
+    "estado": "atrasado",
+    "multa": 1000
+  },
+  {
+    "_id": "P085",
+    "libro_id": "L016",
+    "socio_id": "S005",
+    "fecha_prestamo": {
+      "$date": "2026-07-10T00:00:00Z"
+    },
+    "estado": "cancelado",
+    "motivo_cancelacion": "El socio desistió"
+  },
+  {
+    "_id": "P086",
+    "libro_id": "L014",
+    "socio_id": "S015",
+    "fecha_prestamo": {
+      "$date": "2026-06-30T00:00:00Z"
+    },
+    "estado": "activo"
+  },
+  {
+    "_id": "P087",
+    "libro_id": "L024",
+    "socio_id": "S006",
+    "fecha_prestamo": {
+      "$date": "2026-08-05T00:00:00Z"
+    },
+    "estado": "atrasado",
+    "multa": 8000
+  },
+  {
+    "_id": "P088",
+    "libro_id": "L011",
+    "socio_id": "S010",
+    "fecha_prestamo": {
+      "$date": "2026-06-30T00:00:00Z"
+    },
+    "estado": "cancelado",
+    "motivo_cancelacion": "Libro no disponible"
+  },
+  {
+    "_id": "P089",
+    "libro_id": "L002",
+    "socio_id": "S030",
+    "fecha_prestamo": {
+      "$date": "2026-10-27T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-11-03T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P090",
+    "libro_id": "L025",
+    "socio_id": "S013",
+    "fecha_prestamo": {
+      "$date": "2026-10-26T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-11-09T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P091",
+    "libro_id": "L005",
+    "socio_id": "S019",
+    "fecha_prestamo": {
+      "$date": "2026-07-21T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-08-04T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P092",
+    "libro_id": "L007",
+    "socio_id": "S023",
+    "fecha_prestamo": {
+      "$date": "2026-08-02T00:00:00Z"
+    },
+    "estado": "cancelado",
+    "motivo_cancelacion": "El socio desistió"
+  },
+  {
+    "_id": "P093",
+    "libro_id": "L003",
+    "socio_id": "S012",
+    "fecha_prestamo": {
+      "$date": "2026-07-01T00:00:00Z"
+    },
+    "estado": "atrasado",
+    "multa": 8000
+  },
+  {
+    "_id": "P094",
+    "libro_id": "L024",
+    "socio_id": "S003",
+    "fecha_prestamo": {
+      "$date": "2026-09-18T00:00:00Z"
+    },
+    "estado": "atrasado",
+    "multa": 8000
+  },
+  {
+    "_id": "P095",
+    "libro_id": "L001",
+    "socio_id": "S028",
+    "fecha_prestamo": {
+      "$date": "2026-08-27T00:00:00Z"
+    },
+    "estado": "activo"
+  },
+  {
+    "_id": "P096",
+    "libro_id": "L032",
+    "socio_id": "S004",
+    "fecha_prestamo": {
+      "$date": "2026-09-16T00:00:00Z"
+    },
+    "estado": "atrasado",
+    "multa": 5000
+  },
+  {
+    "_id": "P097",
+    "libro_id": "L030",
+    "socio_id": "S023",
+    "fecha_prestamo": {
+      "$date": "2026-09-01T00:00:00Z"
+    },
+    "estado": "atrasado",
+    "multa": 2000
+  },
+  {
+    "_id": "P098",
+    "libro_id": "L012",
+    "socio_id": "S024",
+    "fecha_prestamo": {
+      "$date": "2026-09-20T00:00:00Z"
+    },
+    "estado": "activo"
+  },
+  {
+    "_id": "P099",
+    "libro_id": "L018",
+    "socio_id": "S020",
+    "fecha_prestamo": {
+      "$date": "2026-10-12T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-10-23T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P100",
+    "libro_id": "L030",
+    "socio_id": "S014",
+    "fecha_prestamo": {
+      "$date": "2026-10-02T00:00:00Z"
+    },
+    "estado": "activo"
+  },
+  {
+    "_id": "P101",
+    "libro_id": "L021",
+    "socio_id": "S028",
+    "fecha_prestamo": {
+      "$date": "2026-08-08T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-08-14T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P102",
+    "libro_id": "L018",
+    "socio_id": "S029",
+    "fecha_prestamo": {
+      "$date": "2026-06-23T00:00:00Z"
+    },
+    "estado": "activo"
+  },
+  {
+    "_id": "P103",
+    "libro_id": "L016",
+    "socio_id": "S025",
+    "fecha_prestamo": {
+      "$date": "2026-09-24T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-10-04T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P104",
+    "libro_id": "L025",
+    "socio_id": "S011",
+    "fecha_prestamo": {
+      "$date": "2026-10-24T00:00:00Z"
+    },
+    "estado": "activo"
+  },
+  {
+    "_id": "P105",
+    "libro_id": "L032",
+    "socio_id": "S028",
+    "fecha_prestamo": {
+      "$date": "2026-06-08T00:00:00Z"
+    },
+    "estado": "cancelado",
+    "motivo_cancelacion": "El socio desistió"
+  },
+  {
+    "_id": "P106",
+    "libro_id": "L032",
+    "socio_id": "S007",
+    "fecha_prestamo": {
+      "$date": "2026-07-17T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-07-25T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P107",
+    "libro_id": "L022",
+    "socio_id": "S009",
+    "fecha_prestamo": {
+      "$date": "2026-08-06T00:00:00Z"
+    },
+    "estado": "activo"
+  },
+  {
+    "_id": "P108",
+    "libro_id": "L001",
+    "socio_id": "S017",
+    "fecha_prestamo": {
+      "$date": "2026-08-10T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-08-16T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P109",
+    "libro_id": "L016",
+    "socio_id": "S024",
+    "fecha_prestamo": {
+      "$date": "2026-06-22T00:00:00Z"
+    },
+    "estado": "activo"
+  },
+  {
+    "_id": "P110",
+    "libro_id": "L032",
+    "socio_id": "S018",
+    "fecha_prestamo": {
+      "$date": "2026-09-13T00:00:00Z"
+    },
+    "estado": "activo"
+  },
+  {
+    "_id": "P111",
+    "libro_id": "L031",
+    "socio_id": "S021",
+    "fecha_prestamo": {
+      "$date": "2026-08-01T00:00:00Z"
+    },
+    "estado": "activo"
+  },
+  {
+    "_id": "P112",
+    "libro_id": "L029",
+    "socio_id": "S026",
+    "fecha_prestamo": {
+      "$date": "2026-10-04T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-10-07T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P113",
+    "libro_id": "L019",
+    "socio_id": "S008",
+    "fecha_prestamo": {
+      "$date": "2026-06-24T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-07-03T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P114",
+    "libro_id": "L020",
+    "socio_id": "S022",
+    "fecha_prestamo": {
+      "$date": "2026-08-02T00:00:00Z"
+    },
+    "estado": "cancelado",
+    "motivo_cancelacion": "Error de registro"
+  },
+  {
+    "_id": "P115",
+    "libro_id": "L031",
+    "socio_id": "S018",
+    "fecha_prestamo": {
+      "$date": "2026-09-03T00:00:00Z"
+    },
+    "estado": "atrasado",
+    "multa": 8000
+  },
+  {
+    "_id": "P116",
+    "libro_id": "L028",
+    "socio_id": "S024",
+    "fecha_prestamo": {
+      "$date": "2026-08-28T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-09-08T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P117",
+    "libro_id": "L023",
+    "socio_id": "S023",
+    "fecha_prestamo": {
+      "$date": "2026-08-24T00:00:00Z"
+    },
+    "estado": "devuelto",
+    "fecha_devolucion": {
+      "$date": "2026-09-03T00:00:00Z"
+    }
+  },
+  {
+    "_id": "P118",
+    "libro_id": "L020",
+    "socio_id": "S009",
+    "fecha_prestamo": {
+      "$date": "2026-08-09T00:00:00Z"
+    },
+    "estado": "cancelado",
+    "motivo_cancelacion": "Libro no disponible"
+  },
+  {
+    "_id": "P119",
+    "libro_id": "L013",
+    "socio_id": "S011",
+    "fecha_prestamo": {
+      "$date": "2026-07-01T00:00:00Z"
+    },
+    "estado": "activo"
+  },
+  {
+    "_id": "P120",
+    "libro_id": "L035",
+    "socio_id": "S025",
+    "fecha_prestamo": {
+      "$date": "2026-07-01T00:00:00Z"
+    },
+    "estado": "atrasado",
+    "multa": 10000
+  }
+]

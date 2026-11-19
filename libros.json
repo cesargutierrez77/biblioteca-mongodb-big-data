@@ -1,0 +1,306 @@
+[
+  {
+    "_id": "L001",
+    "titulo": "El río de las sombras",
+    "autor": "Marta Cely",
+    "categoria": "Novela",
+    "anio": 2020,
+    "copias_disponibles": 1,
+    "genero": "Aventura"
+  },
+  {
+    "_id": "L002",
+    "titulo": "La casa del altiplano",
+    "autor": "Andrés Gómez",
+    "categoria": "Novela",
+    "anio": 1999,
+    "copias_disponibles": 3,
+    "genero": "Romance"
+  },
+  {
+    "_id": "L003",
+    "titulo": "Cartas desde Paipa",
+    "autor": "Julián Pardo",
+    "categoria": "Novela",
+    "anio": 1985,
+    "copias_disponibles": 6,
+    "genero": "Drama"
+  },
+  {
+    "_id": "L004",
+    "titulo": "El último tren",
+    "autor": "Andrés Rojas",
+    "categoria": "Novela",
+    "anio": 2012,
+    "copias_disponibles": 2,
+    "genero": "Romance"
+  },
+  {
+    "_id": "L005",
+    "titulo": "Memorias de un tejedor",
+    "autor": "Camila Gómez",
+    "categoria": "Novela",
+    "anio": 1994,
+    "copias_disponibles": 1,
+    "genero": "Romance"
+  },
+  {
+    "_id": "L006",
+    "titulo": "La hora azul",
+    "autor": "Julián Gómez",
+    "categoria": "Novela",
+    "anio": 1991,
+    "copias_disponibles": 0,
+    "genero": "Aventura"
+  },
+  {
+    "_id": "L007",
+    "titulo": "Un verano en Nobsa",
+    "autor": "Julián Cely",
+    "categoria": "Novela",
+    "anio": 1991,
+    "copias_disponibles": 2,
+    "genero": "Romance"
+  },
+  {
+    "_id": "L008",
+    "titulo": "El jardín olvidado",
+    "autor": "Marta Pardo",
+    "categoria": "Novela",
+    "anio": 2023,
+    "copias_disponibles": 2,
+    "genero": "Misterio"
+  },
+  {
+    "_id": "L009",
+    "titulo": "Cuentos de la montaña",
+    "autor": "Andrés Pardo",
+    "categoria": "Cuento",
+    "anio": 2014,
+    "copias_disponibles": 4
+  },
+  {
+    "_id": "L010",
+    "titulo": "Historias de barrio",
+    "autor": "Julián Rojas",
+    "categoria": "Cuento",
+    "anio": 1992,
+    "copias_disponibles": 3
+  },
+  {
+    "_id": "L011",
+    "titulo": "Relatos de la niebla",
+    "autor": "Marta Gómez",
+    "categoria": "Cuento",
+    "anio": 1990,
+    "copias_disponibles": 4
+  },
+  {
+    "_id": "L012",
+    "titulo": "Cuentos para la noche",
+    "autor": "Camila Pardo",
+    "categoria": "Cuento",
+    "anio": 2003,
+    "copias_disponibles": 6
+  },
+  {
+    "_id": "L013",
+    "titulo": "Introducción a las bases de datos",
+    "autor": "Laura Gómez",
+    "categoria": "Técnico",
+    "anio": 2024,
+    "copias_disponibles": 6,
+    "edicion": 3,
+    "area": "Ingeniería"
+  },
+  {
+    "_id": "L014",
+    "titulo": "Fundamentos de redes",
+    "autor": "Camila Cely",
+    "categoria": "Técnico",
+    "anio": 1989,
+    "copias_disponibles": 0,
+    "edicion": 2,
+    "area": "Matemáticas"
+  },
+  {
+    "_id": "L015",
+    "titulo": "Programación en Python",
+    "autor": "Laura Pardo",
+    "categoria": "Técnico",
+    "anio": 1990,
+    "copias_disponibles": 6,
+    "edicion": 2,
+    "area": "Informática"
+  },
+  {
+    "_id": "L016",
+    "titulo": "Estadística básica",
+    "autor": "Marta Rojas",
+    "categoria": "Técnico",
+    "anio": 2009,
+    "copias_disponibles": 2,
+    "edicion": 4,
+    "area": "Matemáticas"
+  },
+  {
+    "_id": "L017",
+    "titulo": "Electrónica práctica",
+    "autor": "Andrés Cely",
+    "categoria": "Técnico",
+    "anio": 1995,
+    "copias_disponibles": 2,
+    "edicion": 3,
+    "area": "Ingeniería"
+  },
+  {
+    "_id": "L018",
+    "titulo": "Gestión de proyectos",
+    "autor": "Camila Rojas",
+    "categoria": "Técnico",
+    "anio": 2002,
+    "copias_disponibles": 5,
+    "edicion": 1,
+    "area": "Ingeniería"
+  },
+  {
+    "_id": "L019",
+    "titulo": "Análisis de datos",
+    "autor": "Laura Rojas",
+    "categoria": "Técnico",
+    "anio": 2019,
+    "copias_disponibles": 5,
+    "edicion": 2,
+    "area": "Ingeniería"
+  },
+  {
+    "_id": "L020",
+    "titulo": "Sistemas operativos",
+    "autor": "Laura Cely",
+    "categoria": "Técnico",
+    "anio": 2014,
+    "copias_disponibles": 3,
+    "edicion": 3,
+    "area": "Ingeniería"
+  },
+  {
+    "_id": "L021",
+    "titulo": "Boyacá y su independencia",
+    "autor": "Marta Cely",
+    "categoria": "Historia",
+    "anio": 2005,
+    "copias_disponibles": 6
+  },
+  {
+    "_id": "L022",
+    "titulo": "Crónicas del Valle de Sogamoso",
+    "autor": "Andrés Gómez",
+    "categoria": "Historia",
+    "anio": 1988,
+    "copias_disponibles": 1
+  },
+  {
+    "_id": "L023",
+    "titulo": "Historia de los muiscas",
+    "autor": "Julián Pardo",
+    "categoria": "Historia",
+    "anio": 1987,
+    "copias_disponibles": 6
+  },
+  {
+    "_id": "L024",
+    "titulo": "El Camino Real",
+    "autor": "Andrés Rojas",
+    "categoria": "Historia",
+    "anio": 2005,
+    "copias_disponibles": 3
+  },
+  {
+    "_id": "L025",
+    "titulo": "Pueblos de Colombia",
+    "autor": "Camila Gómez",
+    "categoria": "Historia",
+    "anio": 2002,
+    "copias_disponibles": 0
+  },
+  {
+    "_id": "L026",
+    "titulo": "El zorro y la luna",
+    "autor": "Julián Gómez",
+    "categoria": "Infantil",
+    "anio": 1998,
+    "copias_disponibles": 4
+  },
+  {
+    "_id": "L027",
+    "titulo": "Pipo el explorador",
+    "autor": "Julián Cely",
+    "categoria": "Infantil",
+    "anio": 2005,
+    "copias_disponibles": 1
+  },
+  {
+    "_id": "L028",
+    "titulo": "La abeja Lola",
+    "autor": "Marta Pardo",
+    "categoria": "Infantil",
+    "anio": 2016,
+    "copias_disponibles": 3
+  },
+  {
+    "_id": "L029",
+    "titulo": "El gran tesoro",
+    "autor": "Andrés Pardo",
+    "categoria": "Infantil",
+    "anio": 2014,
+    "copias_disponibles": 1
+  },
+  {
+    "_id": "L030",
+    "titulo": "Aventuras en el bosque",
+    "autor": "Julián Rojas",
+    "categoria": "Infantil",
+    "anio": 2001,
+    "copias_disponibles": 1
+  },
+  {
+    "_id": "L031",
+    "titulo": "El universo explicado",
+    "autor": "Marta Gómez",
+    "categoria": "Ciencia",
+    "anio": 2000,
+    "copias_disponibles": 5
+  },
+  {
+    "_id": "L032",
+    "titulo": "Plantas de páramo",
+    "autor": "Camila Pardo",
+    "categoria": "Ciencia",
+    "anio": 2020,
+    "copias_disponibles": 4
+  },
+  {
+    "_id": "L033",
+    "titulo": "Los secretos del agua",
+    "autor": "Laura Gómez",
+    "categoria": "Ciencia",
+    "anio": 2001,
+    "copias_disponibles": 5
+  },
+  {
+    "_id": "L034",
+    "titulo": "Energías limpias",
+    "autor": "Camila Cely",
+    "categoria": "Ciencia",
+    "anio": 2022,
+    "copias_disponibles": 3
+  },
+  {
+    "_id": "L035",
+    "titulo": "Vida en el océano",
+    "autor": "Laura Pardo",
+    "categoria": "Ciencia",
+    "anio": 2022,
+    "copias_disponibles": 3
+  }
+]

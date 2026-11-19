@@ -1,0 +1,272 @@
+[
+  {
+    "_id": "S001",
+    "nombre": "Ana Castro",
+    "ciudad": "Nobsa",
+    "fecha_inscripcion": {
+      "$date": "2024-01-12T00:00:00Z"
+    },
+    "membresia": "Premium"
+  },
+  {
+    "_id": "S002",
+    "nombre": "Lucía Ramírez",
+    "ciudad": "Sogamoso",
+    "fecha_inscripcion": {
+      "$date": "2022-07-06T00:00:00Z"
+    },
+    "membresia": "Básica"
+  },
+  {
+    "_id": "S003",
+    "nombre": "Carlos Cárdenas",
+    "ciudad": "Nobsa",
+    "fecha_inscripcion": {
+      "$date": "2025-07-09T00:00:00Z"
+    },
+    "membresia": "Básica"
+  },
+  {
+    "_id": "S004",
+    "nombre": "Diego Suárez",
+    "ciudad": "Paipa",
+    "fecha_inscripcion": {
+      "$date": "2024-02-28T00:00:00Z"
+    },
+    "membresia": "Premium"
+  },
+  {
+    "_id": "S005",
+    "nombre": "Mateo Ramírez",
+    "ciudad": "Sogamoso",
+    "fecha_inscripcion": {
+      "$date": "2025-02-07T00:00:00Z"
+    },
+    "membresia": "Premium"
+  },
+  {
+    "_id": "S006",
+    "nombre": "Sofía Torres",
+    "ciudad": "Tunja",
+    "fecha_inscripcion": {
+      "$date": "2025-08-05T00:00:00Z"
+    },
+    "membresia": "Premium"
+  },
+  {
+    "_id": "S007",
+    "nombre": "Valentina Ramírez",
+    "ciudad": "Tunja",
+    "fecha_inscripcion": {
+      "$date": "2022-11-20T00:00:00Z"
+    },
+    "membresia": "Básica"
+  },
+  {
+    "_id": "S008",
+    "nombre": "Isabela Torres",
+    "ciudad": "Tunja",
+    "fecha_inscripcion": {
+      "$date": "2024-11-05T00:00:00Z"
+    },
+    "membresia": "Básica"
+  },
+  {
+    "_id": "S009",
+    "nombre": "Sofía Castro",
+    "ciudad": "Nobsa",
+    "fecha_inscripcion": {
+      "$date": "2022-11-10T00:00:00Z"
+    },
+    "membresia": "Básica"
+  },
+  {
+    "_id": "S010",
+    "nombre": "Sofía Quintero",
+    "ciudad": "Sogamoso",
+    "fecha_inscripcion": {
+      "$date": "2025-05-11T00:00:00Z"
+    },
+    "membresia": "Básica"
+  },
+  {
+    "_id": "S011",
+    "nombre": "Isabela Moreno",
+    "ciudad": "Duitama",
+    "fecha_inscripcion": {
+      "$date": "2024-01-14T00:00:00Z"
+    },
+    "membresia": "Básica"
+  },
+  {
+    "_id": "S012",
+    "nombre": "Isabela Suárez",
+    "ciudad": "Sogamoso",
+    "fecha_inscripcion": {
+      "$date": "2023-05-09T00:00:00Z"
+    },
+    "membresia": "Básica"
+  },
+  {
+    "_id": "S013",
+    "nombre": "Mateo Torres",
+    "ciudad": "Nobsa",
+    "fecha_inscripcion": {
+      "$date": "2024-09-22T00:00:00Z"
+    },
+    "membresia": "Básica"
+  },
+  {
+    "_id": "S014",
+    "nombre": "Andrea Quintero",
+    "ciudad": "Nobsa",
+    "fecha_inscripcion": {
+      "$date": "2022-09-20T00:00:00Z"
+    },
+    "membresia": "Básica"
+  },
+  {
+    "_id": "S015",
+    "nombre": "Pedro Suárez",
+    "ciudad": "Paipa",
+    "fecha_inscripcion": {
+      "$date": "2023-06-27T00:00:00Z"
+    },
+    "membresia": "Básica"
+  },
+  {
+    "_id": "S016",
+    "nombre": "Lucía Herrera",
+    "ciudad": "Tunja",
+    "fecha_inscripcion": {
+      "$date": "2025-01-09T00:00:00Z"
+    },
+    "membresia": "Premium"
+  },
+  {
+    "_id": "S017",
+    "nombre": "Andrea Silva",
+    "ciudad": "Paipa",
+    "fecha_inscripcion": {
+      "$date": "2025-10-07T00:00:00Z"
+    },
+    "membresia": "Premium"
+  },
+  {
+    "_id": "S018",
+    "nombre": "Ana Herrera",
+    "ciudad": "Sogamoso",
+    "fecha_inscripcion": {
+      "$date": "2022-09-05T00:00:00Z"
+    },
+    "membresia": "Premium"
+  },
+  {
+    "_id": "S019",
+    "nombre": "Daniela Peña",
+    "ciudad": "Duitama",
+    "fecha_inscripcion": {
+      "$date": "2022-02-13T00:00:00Z"
+    },
+    "membresia": "Básica"
+  },
+  {
+    "_id": "S020",
+    "nombre": "María Ramírez",
+    "ciudad": "Duitama",
+    "fecha_inscripcion": {
+      "$date": "2022-01-15T00:00:00Z"
+    },
+    "membresia": "Básica"
+  },
+  {
+    "_id": "S021",
+    "nombre": "Mateo Silva",
+    "ciudad": "Sogamoso",
+    "fecha_inscripcion": {
+      "$date": "2022-03-06T00:00:00Z"
+    },
+    "membresia": "Básica"
+  },
+  {
+    "_id": "S022",
+    "nombre": "Andrea Quintero",
+    "ciudad": "Duitama",
+    "fecha_inscripcion": {
+      "$date": "2023-07-25T00:00:00Z"
+    },
+    "membresia": "Básica"
+  },
+  {
+    "_id": "S023",
+    "nombre": "Daniela Quintero",
+    "ciudad": "Duitama",
+    "fecha_inscripcion": {
+      "$date": "2025-03-15T00:00:00Z"
+    },
+    "membresia": "Premium"
+  },
+  {
+    "_id": "S024",
+    "nombre": "Ana Torres",
+    "ciudad": "Sogamoso",
+    "fecha_inscripcion": {
+      "$date": "2024-04-13T00:00:00Z"
+    },
+    "membresia": "Premium"
+  },
+  {
+    "_id": "S025",
+    "nombre": "Diego Cárdenas",
+    "ciudad": "Paipa",
+    "fecha_inscripcion": {
+      "$date": "2023-12-27T00:00:00Z"
+    },
+    "membresia": "Básica"
+  },
+  {
+    "_id": "S026",
+    "nombre": "Andrea Torres",
+    "ciudad": "Sogamoso",
+    "fecha_inscripcion": {
+      "$date": "2025-10-11T00:00:00Z"
+    },
+    "membresia": "Premium"
+  },
+  {
+    "_id": "S027",
+    "nombre": "Lucía Torres",
+    "ciudad": "Duitama",
+    "fecha_inscripcion": {
+      "$date": "2023-11-26T00:00:00Z"
+    },
+    "membresia": "Básica"
+  },
+  {
+    "_id": "S028",
+    "nombre": "Pedro Quintero",
+    "ciudad": "Duitama",
+    "fecha_inscripcion": {
+      "$date": "2023-01-25T00:00:00Z"
+    },
+    "membresia": "Premium"
+  },
+  {
+    "_id": "S029",
+    "nombre": "Luis Quintero",
+    "ciudad": "Duitama",
+    "fecha_inscripcion": {
+      "$date": "2023-01-11T00:00:00Z"
+    },
+    "membresia": "Básica"
+  },
+  {
+    "_id": "S030",
+    "nombre": "Lucía Peña",
+    "ciudad": "Sogamoso",
+    "fecha_inscripcion": {
+      "$date": "2024-06-26T00:00:00Z"
+    },
+    "membresia": "Básica"
+  }
+]
